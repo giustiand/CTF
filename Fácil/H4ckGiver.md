@@ -122,7 +122,7 @@ Entonces, lo único que nos queda es ejecutar el siguiente comando:
 
 ![H](https://github.com/giustiand/CTF-Writeups/blob/main/F%C3%A1cil/images/H4ckGiver/H_19.jpg)      
 
-¡Y listo! 
+¡Y listo!   
 ¡Somos root!  
 
 
