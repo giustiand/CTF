@@ -102,7 +102,8 @@ Comprobamos con el comando `cat /etc/passwd` si hay otros usuarios en el sistema
 
 ![H](https://github.com/giustiand/CTF-Writeups/blob/main/F%C3%A1cil/images/H4ckGiver/H_15.jpg)     
 
-¡Perfecto! Intentemos iniciar sesión como *murdoc* con el comando `su murdoc` e ingresando la contraseña que acabamos de descubrir.  
+¡Perfecto!  
+Intentemos iniciar sesión como *murdoc* con el comando `su murdoc` e ingresando la contraseña que acabamos de descubrir.  
 
 ![H](https://github.com/giustiand/CTF-Writeups/blob/main/F%C3%A1cil/images/H4ckGiver/H_16.jpg)    
 
